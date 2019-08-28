@@ -1,0 +1,7 @@
+testDemo.txt  为测试 demo 秘钥
+
+秘钥生成：
+HdKeyManager.main()
+
+钱包测试demo
+WalletUtil.main()

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: morningPaySDK
+Implementation-Version: 2.1.0
+Built-By: abill
+Implementation-Vendor-Id: io.renren
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/morningPaySDK
+Created-By: Maven Integration for Eclipse
+
